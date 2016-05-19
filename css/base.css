@@ -40,6 +40,7 @@ a:hover {
 
 .product-grid {
   width: 100%;
+  border-collapse: collapse;
 }
 
 .product-grid thead th {
